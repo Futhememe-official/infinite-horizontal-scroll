@@ -8,6 +8,8 @@
 
 A website that combines a horizontal scroll effect with an infinite scroll effect to create the impression of endless continuity on the page.
 
+Inspired on: [Compsych](https://compsych.konpo.co/)
+
 ### 🖥️ Test on your machine
 
 First install the dependecies:
