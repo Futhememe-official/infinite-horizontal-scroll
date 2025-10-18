@@ -1,0 +1,20 @@
+.default-container {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  min-width: 100vw;
+  gap: 10rem;
+
+  align-items: center;
+  justify-content: center;
+
+  padding: 2rem 4rem;
+
+  h2 {
+    font-size: x-large;
+  }
+
+  p {
+    max-width: 450px;
+  }
+}

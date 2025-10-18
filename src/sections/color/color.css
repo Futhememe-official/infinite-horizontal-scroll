@@ -1,0 +1,36 @@
+.color-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  height: 100vh;
+  min-width: 200vw;
+
+  div {
+    display: flex;
+    flex: 1;
+  }
+
+  .cyan {
+    background-color: #8dc9f4;
+  }
+
+  .deep-blue {
+    background-color: #070f36;
+  }
+
+  .orange {
+    background-color: #92522d;
+  }
+
+  .yellow {
+    background-color: #fff58c;
+  }
+
+  .green {
+    background-color: #264b3c;
+  }
+
+  .light-green {
+    background-color: #c4ffb2;
+  }
+}
